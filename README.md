@@ -70,7 +70,7 @@ In this section you will find Master's theses, which provide further information
 ### Prerequisites ###
 
  - Java Platform (JDK) 8
- - MySQL
+ - MySQL 5.1-5.7
  
 **Development only:**
  - NodeJS for Angular development in GUI-Dev and ModellingPlatform-Dev
